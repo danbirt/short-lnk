@@ -17,7 +17,7 @@ export default class LinksListFilters extends React.Component {
         });
     }
     componentWillUnmount() {
-        this.Tracker.stop();
+        this.tracker.stop();
     }
     render() {
         return (
