@@ -1,6 +1,6 @@
 # Short Lnk
 
-This is a link shortener built on Meteor and React.
+This is an awesome link shortener built on Meteor and React.
 
 ## Authors
 Dan Birt
